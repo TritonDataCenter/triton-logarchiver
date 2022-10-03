@@ -1,9 +1,9 @@
 [submodule "deps/hermes"]
 	path = deps/hermes
-	url = https://github.com/joyent/sdc-hermes.git
+	url = https://github.com/TritonDataCenter/sdc-hermes.git
 [submodule "deps/eng"]
 	path = deps/eng
-	url = https://github.com/joyent/eng.git
+	url = https://github.com/TritonDataCenter/eng.git
 [submodule "deps/sdc-scripts"]
 	path = deps/sdc-scripts
-	url = https://github.com/joyent/sdc-scripts.git
+	url = https://github.com/TritonDataCenter/sdc-scripts.git

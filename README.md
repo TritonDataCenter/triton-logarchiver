@@ -6,14 +6,17 @@
 
 <!--
     Copyright 2019 Joyent, Inc.
+    Copyright 2022 MNX Cloud, Inc.
 -->
 
-This repository is part of the Joyent Triton project. See the [contribution
-guidelines](https://github.com/joyent/triton/blob/master/CONTRIBUTING.md)
-and general documentation at the main
-[Triton project](https://github.com/joyent/triton) page.
+# triton-logarchiver
 
-# Triton Log Archiver
+This repository is part of the Triton Data Center project. See the [contribution
+guidelines](https://github.com/TritonDataCenter/triton/blob/master/CONTRIBUTING.md)
+and general documentation at the main
+[Triton project](https://github.com/TritonDataCenter/triton) page.
+
+# Overview
 
 This repo is used to build the image for the Log Archiver Triton core service.
 
